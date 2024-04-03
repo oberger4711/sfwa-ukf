@@ -32,7 +32,7 @@ ADD_EXECUTABLE(benchmark
     #StateVectorBenchmark.cpp
     #MeasurementVectorBenchmark.cpp
     #CoreBenchmark.cpp
-    UKFBenchmark.cpp
+    ComparisonBenchmark.cpp
     #SquareRootCoreBenchmark.cpp
     BenchmarkMain.cpp)
 
